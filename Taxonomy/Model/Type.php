@@ -32,6 +32,7 @@ class Type extends TaxonomyAppModel {
 		'Croogo.Cached' => array(
 			'groups' => array(
 				'taxonomy',
+				'nodes'
 			),
 		),
 		'Croogo.Params',
